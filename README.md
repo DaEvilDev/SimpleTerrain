@@ -1,8 +1,8 @@
 ---
 
-# **SimpleTerrain API**![Terrain](https://github.com/user-attachments/assets/4292ae68-507a-44a6-86f0-8952b1ac40be)
+# **Simple Terrain API**![Terrain](https://github.com/user-attachments/assets/4292ae68-507a-44a6-86f0-8952b1ac40be)
 
-A lightweight and efficient API for saving, loading, and managing terrain as a folder-based storage system in Roblox.
+A lightweight and efficient API for saving, loading, and managing terrain as a folder-based storage system in ROBLOX.
 
 ---
 

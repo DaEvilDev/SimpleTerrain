@@ -8,6 +8,7 @@ A lightweight and efficient API for saving, loading, and managing terrain as a f
 
 ## **Table of Contents**
 - [Overview](#overview)
+- [Installation](#installation)
 - [Usage](#usage)
   - [Save Terrain](#save-terrain)
   - [Load Terrain](#load-terrain)
@@ -18,8 +19,6 @@ A lightweight and efficient API for saving, loading, and managing terrain as a f
   - [LoadTerrain](#loadterrain)
   - [UnloadTerrain](#unloadterrain)
   - [UpdateTerrain](#updateterrain)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -33,7 +32,10 @@ A lightweight and efficient API for saving, loading, and managing terrain as a f
 
 To use this API in your project:
 
-1. **Clone the repository** or **download** the files.
+1. Get the API from the ROBLOX Marketplace.
+
+- **[Get Simple Terrain API](https://create.roblox.com/store/asset/113792664371880/)**  
+
 2. **Import the API** into your game by copying the script into **ReplicatedStorage**, **ServerStorage**, or any other location appropriate for your needs.
 
 ```lua
@@ -168,22 +170,5 @@ SimpleTerrain:UpdateTerrain(folder, size, position)
 - **position** *(Vector3)* – The new position of the terrain region.
 
 **Returns:** `(string)` – A success message.
-
----
-
-## **Contributing**
-
-Feel free to submit issues, feature requests, or pull requests! Please ensure your contributions follow the coding style and include clear commit messages.
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them with a clear message.
-4. Push your changes and create a pull request.
-
----
-
-## **License**
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
 
 ---
